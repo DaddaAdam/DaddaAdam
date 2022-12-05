@@ -24,5 +24,5 @@ My main goal for the short to mid term is to graduate and start my career as a D
 
 ### 📊 Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Adam Dadda Github Stats" src="https://github-readme-stats.vercel.app/api?username=DaddaAdam&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaddaAdam&show_icons=true&locale=en&layout=compact&theme=algolia" alt="DaddaAdam" height="192px"/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Adam Dadda Github Stats" src="https://github-readme-stats.vercel.app/api?username=DaddaAdam&show_icons=true&count_private=true&theme=github_dark" height="192px"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaddaAdam&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="DaddaAdam" height="192px"/>
